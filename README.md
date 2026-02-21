@@ -1,50 +1,63 @@
-<h1 align="center">Hi 👋, I'm Hossam</h1>
-<h3 align="center">.NET Backend Developer | Passionate about Building Scalable Applications</h3>
+<h1 align="center">Hi 👋, I'm Hossam Mostafa Ibrahim</h1>
+<h3 align="center">.NET Developer | Building Reliable Desktop & Web Applications with C# and .NET</h3>
 
-💫 **About Me:**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🏳️ I'm currently working on: Developing robust backend services using .NET and integrating with frontend frameworks like Angular.
-- 👯 I'm looking to collaborate on: Open-source projects involving .NET, Angular, and database management with SQL Server or PostgreSQL.
-- 🤝 I'm looking for help with: Connecting with experienced .NET developers for mentorship and best practices in microservices architecture.
-- 🌱 I'm currently learning: Advanced topics in .NET Core, Entity Framework, and cloud deployment on Azure.
-- 💬 Ask me about: .NET, Angular, SQL Server, PostgreSQL, API development, and database optimization.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HossamEldawahry&label=Profile%20views&color=0e75b6&style=flat" alt="HossamEldawahry" /> </p>
 
-🌐 **Socials / Connect with me:**
-<!-- غير اللينكات دي ببياناتك الحقيقية -->
-[<img align="center" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hossam-yourprofile) &nbsp;
-[<img align="center" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/yourtwitter) &nbsp;
-[<img align="center" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />](https://yourportfolio.com) &nbsp;
+- 🔭 I’m currently working at **Electro Pi as Backend .NET Developer** (since Jan 2026)
+- 🌱 I’m currently learning **Angular 17+ and advanced ASP.NET Core features**
+- 👨‍💻 Check out my portfolio at [https://portfolio-front-end-virid.vercel.app/](https://portfolio-front-end-virid.vercel.app/)
+- 💬 Ask me about **.NET Core, ASP.NET Web API, Entity Framework, SQL Server, PostgreSQL**
+- 📫 How to reach me **hossam.mostafa.ibrahim.mostafa@gmail.com** | +20 1096024213
+- ⚡ Fun fact **I turn complex problems into clean, maintainable code – fueled by persistence and coffee!**
 
-💻 **Tech Stack:**
-
-<p align="center">
-  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/></a>
-  <a href="https://angular.io/"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  <!-- لو عايز تضيف أكتر، مثل Azure أو Git: -->
-  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hossam-mostafa-6653452b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam-mostafa-6653452b3" height="30" width="40" /></a>
+<!-- Add more socials if you have, e.g., Twitter, GitHub personal site -->
 </p>
 
-📊 **GitHub Stats:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical&hide_border=true" alt="Hossam's GitHub stats" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://www.jquery.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/JQuery-Logo.svg" alt="jquery" width="40" height="40"/> </a> 
+  <a href="https://maui.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/.NET_MAUI_logo.png" alt="maui" width="40" height="40"/> </a> 
+  <!-- Add more if needed, like DevExpress, OpenCV, etc. -->
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<h3 align="left">Key Skills:</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+- **Backend Development:** ASP.NET Core, Web API, MVC, Entity Framework Core, ADO.NET, Repository & UnitOfWork Patterns
+- **Databases:** SQL Server, PostgreSQL, SQL
+- **Frontend:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, Angular (learning)
+- **Principles:** OOP, SOLID, Clean Architecture
+- **Other:** WinForms, MAUI, .NET Framework, Multi-Tenancy, RESTful APIs
 
-<!-- لو عايز تضيف زوار: -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&color=blue&style=flat-square)
+<h3 align="left">Professional Experience:</h3>
 
-<!-- أو Contribution Graph مع Snake: -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourgithubusername/yourgithubusername/output/snake.svg" alt="Snake animation" />
-</p>
+- **Backend .NET Developer @ Electro Pi** (Jan 2026 – Present): Focusing on scalable backend solutions.
+- **.NET Developer @ NanoSoftCode** (Jan 2023 – Dec 2025): Developed corporate websites and applications using ASP.NET Core.
+- **.NET Developer @ El-Ahmadia for Export and Import** (Jun 2021 – Dec 2022): Built desktop apps for weighing and invoicing systems.
+- **Technical Support @ El-Ahmadia** (Feb 2019 – Jun 2021): Provided support and transitioned to development roles.
+
+<!-- Add links to repos if available, e.g., [Repo Link](https://github.com/yourgithubusername/project) -->
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourgithubusername&show_icons=true&locale=en&layout=compact&theme=radical" alt="yourgithubusername" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&locale=en&theme=radical" alt="yourgithubusername" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="yourgithubusername" /></p>
+
+<!-- GitHub Trophies -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=radical" alt="yourgithubusername" /></a> </p>
