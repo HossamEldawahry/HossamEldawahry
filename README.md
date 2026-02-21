@@ -42,11 +42,14 @@
 - **Other:** WinForms, MAUI, .NET Framework, Multi-Tenancy, RESTful APIs
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HossamEldawahry&show_icons=true&locale=en&layout=compact&theme=radical" alt="HossamEldawahry" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HossamEldawahry&show_icons=true&locale=en&theme=radical" alt="HossamEldawahry" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=HossamEldawahry&show_icons=true&locale=en&theme=radical" alt="HossamEldawahry" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HossamEldawahry&theme=radical" alt="HossamEldawahry" /></p>
+<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=HossamEldawahry&show_icons=true&locale=en&layout=compact&theme=radical" alt="HossamEldawahry" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=HossamEldawahry&theme=radical" alt="HossamEldawahry" /></p>
+
+<!-- Trophies (ده شغال دايمًا) -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HossamEldawahry&theme=radical" alt="HossamEldawahry" /></a> </p>
 <!-- GitHub Trophies -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HossamEldawahry&theme=radical" alt="HossamEldawahry" /></a> </p>
