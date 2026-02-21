@@ -49,7 +49,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=HossamEldawahry&theme=radical" alt="HossamEldawahry" /></p>
 
-<!-- Trophies (ده شغال دايمًا) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HossamEldawahry&theme=radical" alt="HossamEldawahry" /></a> </p>
-<!-- GitHub Trophies -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HossamEldawahry&theme=radical" alt="HossamEldawahry" /></a> </p>
+
