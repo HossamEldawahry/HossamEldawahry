@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HossamEldawahry&label=Profile%20views&color=0e75b6&style=flat" alt="HossamEldawahry" /> </p>
 
-- 🔭 I’m currently working at **Electro Pi as Backend .NET Developer** (since Jan 2026)
 - 🌱 I’m currently learning **Angular 17+ and advanced ASP.NET Core features**
 - 👨‍💻 Check out my portfolio at [https://portfolio-front-end-virid.vercel.app/](https://portfolio-front-end-virid.vercel.app/)
 - 💬 Ask me about **.NET Core, ASP.NET Web API, Entity Framework, SQL Server, PostgreSQL**
