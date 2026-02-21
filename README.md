@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hossam-mostafa-6653452b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam-mostafa-6653452b3" height="30" width="40" /></a>
-<!-- Add more socials if you have, e.g., Twitter, GitHub personal site -->
+<!-- لو عندك تويتر أو غيره، أضفه هنا -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,35 +29,24 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.jquery.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/JQuery-Logo.svg" alt="jquery" width="40" height="40"/> </a> 
-  <a href="https://maui.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/.NET_MAUI_logo.png" alt="maui" width="40" height="40"/> </a> 
-  <!-- Add more if needed, like DevExpress, OpenCV, etc. -->
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> 
+  <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="maui" width="40" height="40"/> </a> 
+  <!-- لو عايز أيقونة MAUI أكثر تميز، جرب: https://skillicons.dev/icons?i=dotnet (لكن ده مش svg مباشر) -->
 </p>
 
 <h3 align="left">Key Skills:</h3>
-
 - **Backend Development:** ASP.NET Core, Web API, MVC, Entity Framework Core, ADO.NET, Repository & UnitOfWork Patterns
 - **Databases:** SQL Server, PostgreSQL, SQL
 - **Frontend:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, Angular (learning)
 - **Principles:** OOP, SOLID, Clean Architecture
 - **Other:** WinForms, MAUI, .NET Framework, Multi-Tenancy, RESTful APIs
 
-<h3 align="left">Professional Experience:</h3>
-
-- **Backend .NET Developer @ Electro Pi** (Jan 2026 – Present): Focusing on scalable backend solutions.
-- **.NET Developer @ NanoSoftCode** (Jan 2023 – Dec 2025): Developed corporate websites and applications using ASP.NET Core.
-- **.NET Developer @ El-Ahmadia for Export and Import** (Jun 2021 – Dec 2022): Built desktop apps for weighing and invoicing systems.
-- **Technical Support @ El-Ahmadia** (Feb 2019 – Jun 2021): Provided support and transitioned to development roles.
-
-<!-- Add links to repos if available, e.g., [Repo Link](https://github.com/yourgithubusername/project) -->
-
 <h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HossamEldawahry&show_icons=true&locale=en&layout=compact&theme=radical" alt="HossamEldawahry" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourgithubusername&show_icons=true&locale=en&layout=compact&theme=radical" alt="yourgithubusername" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HossamEldawahry&show_icons=true&locale=en&theme=radical" alt="HossamEldawahry" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&locale=en&theme=radical" alt="yourgithubusername" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="yourgithubusername" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HossamEldawahry&theme=radical" alt="HossamEldawahry" /></p>
 
 <!-- GitHub Trophies -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=radical" alt="yourgithubusername" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HossamEldawahry&theme=radical" alt="HossamEldawahry" /></a> </p>
