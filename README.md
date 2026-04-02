@@ -1,51 +1,178 @@
 <h1 align="center">Hi 👋, I'm Hossam Mostafa Ibrahim</h1>
 <h3 align="center">.NET Developer | Building Reliable Desktop & Web Applications with C# and .NET</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <a href="https://portfolio-front-end-virid.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:hossam.mostafa.ibrahim.mostafa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hossam-mostafa-6653452b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hossam_Mostafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HossamEldawahry&label=Profile%20views&color=0e75b6&style=flat" alt="HossamEldawahry" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HossamEldawahry&label=Profile%20Views&color=0e75b6&style=flat" alt="HossamEldawahry" />
+</p>
 
-- 🌱 I’m currently learning **Angular 17+ and advanced ASP.NET Core features**
-- 👨‍💻 Check out my portfolio at [https://portfolio-front-end-virid.vercel.app/](https://portfolio-front-end-virid.vercel.app/)
-- 💬 Ask me about **.NET Core, ASP.NET Web API, Entity Framework, SQL Server, PostgreSQL**
-- 📫 How to reach me **hossam.mostafa.ibrahim.mostafa@gmail.com** | +20 1096024213
-- ⚡ Fun fact **I turn complex problems into clean, maintainable code – fueled by persistence and coffee!**
+---
 
-<h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning **Angular 17+** and exploring **advanced ASP.NET Core features**
+- 👨‍💻 I build **desktop and web applications** using **C# and .NET**
+- 💬 Ask me about **ASP.NET Core, Web API, Entity Framework Core, SQL Server, PostgreSQL**
+- 🧠 I care about **clean architecture, maintainable code, and scalable backend systems**
+- 🎯 My goal is to become a stronger **Senior .NET Developer**
+- ⚡ Fun fact: **I enjoy turning complex business requirements into practical software solutions**
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/hossam-mostafa-6653452b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam-mostafa-6653452b3" height="30" width="40" /></a>
-<!-- لو عندك تويتر أو غيره، أضفه هنا -->
+  <a href="https://linkedin.com/in/hossam-mostafa-6653452b3" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin" />
+  </a>
+  <a href="mailto:hossam.mostafa.ibrahim.mostafa@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail" />
+  </a>
+  <a href="https://portfolio-front-end-virid.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="portfolio" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="maui" width="40" height="40"/> </a> 
-  <!-- لو عايز أيقونة MAUI أكثر تميز، جرب: https://skillicons.dev/icons?i=dotnet (لكن ده مش svg مباشر) -->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
 </p>
 
-<h3 align="left">Key Skills:</h3>
-- **Backend Development:** ASP.NET Core, Web API, MVC, Entity Framework Core, ADO.NET, Repository & UnitOfWork Patterns
-- **Databases:** SQL Server, PostgreSQL, SQL
-- **Frontend:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, Angular (learning)
-- **Principles:** OOP, SOLID, Clean Architecture
-- **Other:** WinForms, MAUI, .NET Framework, Multi-Tenancy, RESTful APIs
+- **C#**
+- **ASP.NET Core**
+- **ASP.NET Web API**
+- **ASP.NET MVC**
+- **Entity Framework Core**
+- **ADO.NET**
+- **RESTful APIs**
+- **Repository Pattern**
+- **Unit of Work Pattern**
+- **Multi-Tenancy**
 
-<h3 align="left">GitHub Stats:</h3>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=HossamEldawahry&show_icons=true&locale=en&theme=radical" alt="HossamEldawahry" /></p>
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="sqlserver" width="50" height="50"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=HossamEldawahry&show_icons=true&locale=en&layout=compact&theme=radical" alt="HossamEldawahry" /></p>
+- **SQL Server**
+- **PostgreSQL**
+- **SQL**
 
-<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=HossamEldawahry&theme=radical" alt="HossamEldawahry" /></p>
+---
 
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,js,html,css,bootstrap,jquery" />
+</p>
 
+- **Angular** *(currently learning)*
+- **JavaScript**
+- **HTML5**
+- **CSS3**
+- **Bootstrap**
+- **jQuery**
+
+---
+
+### 🖥️ Desktop / Cross Platform
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+- **WinForms**
+- **.NET MAUI**
+- **.NET Framework**
+
+---
+
+### 🧠 Software Engineering
+- **OOP**
+- **SOLID Principles**
+- **Clean Architecture**
+- **Layered Architecture**
+- **Problem Solving**
+
+---
+
+## 📌 Developer Snapshot
+
+```csharp
+public class HossamMostafa
+{
+    public string Role => ".NET Developer";
+
+    public string[] CoreSkills => new[]
+    {
+        "C#",
+        "ASP.NET Core",
+        "Web API",
+        "Entity Framework Core",
+        "SQL Server",
+        "PostgreSQL",
+        "WinForms",
+        ".NET MAUI",
+        "Clean Architecture",
+        "SOLID Principles"
+    };
+
+    public string CurrentFocus => "Building scalable backend systems and improving frontend skills with Angular";
+
+    public string CareerGoal => "Become a strong Senior .NET Developer";
+}
+---
+🚀 Featured Projects
+1️⃣ ERP / Business Management System
+Modular business system for handling sales, inventory, treasury, and accounting
+Designed with scalability and clean backend structure in mind
+Focused on real-world business workflows
+2️⃣ Portfolio Website
+Personal portfolio to showcase projects, technical skills, and development journey
+Built to reflect a clean and professional developer identity
+3️⃣ Excel to Database Import Tool
+Desktop application using WinForms + ADO.NET
+Imports Excel data into SQL tables with dynamic column mapping
+Useful for internal admin and data migration tasks
+🔭 What I'm Working On
+Improving my ASP.NET Core backend architecture
+Learning Angular to become stronger in full-stack development
+Building more production-ready applications
+Strengthening my understanding of system design and clean code practices
+🎯 Career Focus
+
+I'm currently interested in opportunities related to:
+
+.NET Backend Development
+ASP.NET Core Web API
+Full-Stack .NET + Angular
+ERP / Business Systems
+Desktop to Web System Modernization
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HossamEldawahry&show_icons=true&theme=radical&hide_border=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamEldawahry&layout=compact&theme=radical&hide_border=true" height="170" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HossamEldawahry&theme=radical&hide_border=true" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=HossamEldawahry&theme=radical&no-frame=true&row=1&column=6" /> </p>
+📈 Current Goal
+
+Becoming a stronger Senior .NET Developer by building production-ready systems with better architecture, cleaner code, and scalable backend solutions.
+
+🤝 Let's Build Something Great
+<p align="center"> <a href="mailto:hossam.mostafa.ibrahim.mostafa@gmail.com"> <img src="https://img.shields.io/badge/Let's%20Connect-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/hossam-mostafa-6653452b3" target="_blank"> <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> ```
