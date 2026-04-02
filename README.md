@@ -103,24 +103,23 @@ WinForms desktop application for importing and mapping Excel data into SQL Serve
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HossamEldawahry&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamEldawahry&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HossamEldawahry&theme=radical&hide_border=true" />
+  <img src="https://ghstats.dev/api/card?username=HossamEldawahry&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=HossamEldawahry&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 💡 Professional Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HossamEldawahry&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
-</p>
+- 🔹 Strong foundation in **C# and .NET development**
+- 🔹 Experience building **desktop and web applications**
+- 🔹 Focused on **clean architecture** and **maintainable backend systems**
+- 🔹 Comfortable working with **SQL Server**, **PostgreSQL**, and **REST APIs**
+- 🔹 Continuously improving toward **Senior .NET Developer** level
 
 ---
 
