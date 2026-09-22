@@ -20,28 +20,32 @@
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a **Software Engineer specializing in C# and .NET**, with hands-on experience building business applications, backend systems, REST APIs, desktop applications, and enterprise solutions.
+### 🚀 About Me
 
-My primary focus is **backend engineering and system architecture**, while continuously expanding my frontend expertise to build complete full-stack solutions.
+I'm a **Software Engineer specializing in C# and .NET**, with a strong backend background and hands-on experience building business applications, enterprise systems, REST APIs, desktop applications, and full-stack solutions.
 
-I enjoy taking complex business requirements and turning them into:
+My main focus is **backend engineering, system design, architecture, and business-driven software development**, while continuously expanding my frontend expertise.
+
+I enjoy turning complex business requirements into:
 
 * Reliable backend systems
-* Well-structured APIs
+* Well-designed APIs
 * Maintainable architectures
-* Database-driven applications
 * Scalable business workflows
+* Database-driven applications
 * Production-ready software
 
-I'm particularly interested in **software architecture, system design, clean code, domain-driven business logic, and solving real-world engineering problems**.
+I'm particularly interested in **software architecture, system design, distributed systems, clean code, domain modeling, and solving real-world engineering problems**.
+
+<br clear="right"/>
 
 ---
 
-## 🚀 What I Work With
+## 🛠️ Technical Skills
 
-### Backend & .NET
+### 💻 Backend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
@@ -55,31 +59,73 @@ I'm particularly interested in **software architecture, system design, clean cod
 * RESTful APIs
 * Authentication & Authorization
 * JWT
-* Background Processing
+* Background Services
 * API Design
 * Business Logic & Domain Modeling
 
-### Architecture & Engineering
+---
+
+### 🏛️ Architecture & Software Engineering
 
 * Clean Architecture
 * Layered Architecture
+* Modular Architecture
+* CQRS
 * SOLID Principles
 * OOP
-* CQRS
-* Repository & Unit of Work
+* Repository Pattern
+* Unit of Work
 * Result Pattern
-* Domain-driven business logic
-* Modular Monolithic Architecture
+* Domain Modeling
 * Multi-Tenancy
 * System Design
-* API & Database Design
-* Concurrency & Transaction Management
+* API Design
+* Database Design
+* Transaction Management
+* Concurrency Handling
 * Auditing & Soft Delete
 * Idempotency
 * Outbox Pattern
-* Event-driven concepts
+* Event-Driven Architecture Concepts
 
-### Databases
+---
+
+### ⚡ Distributed Systems & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redis,rabbitmq,docker" />
+</p>
+
+* **Redis**
+
+  * Distributed caching
+  * Session/state management concepts
+  * Distributed application scenarios
+
+* **RabbitMQ**
+
+  * Message-based communication
+  * Asynchronous processing
+  * Event-driven architecture concepts
+
+* **Docker**
+
+  * Containerized development environments
+  * Application dependencies
+  * Database/service containers
+  * Local integration environments
+
+* Background Processing
+
+* Messaging
+
+* Caching
+
+* Distributed-system fundamentals
+
+---
+
+### 🗄️ Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
@@ -89,13 +135,17 @@ I'm particularly interested in **software architecture, system design, clean cod
 * Microsoft SQL Server
 * PostgreSQL
 * T-SQL
-* Database Design
+* Relational Database Design
 * Entity Relationships
-* Indexing & Query Optimization
+* Indexing
+* Query Optimization
 * Transactions
 * Migrations
+* Data Integrity
 
-### Frontend
+---
+
+### 🎨 Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,react,js,jquery" />
@@ -109,18 +159,21 @@ I'm particularly interested in **software architecture, system design, clean cod
 * Tailwind CSS
 * Bootstrap
 * jQuery
-* REST API integration
-* Responsive UI development
+* REST API Integration
+* Responsive Web Applications
 
-Currently focusing on becoming stronger in **modern Angular and full-stack development**.
+Currently expanding my frontend expertise to become a stronger **full-stack engineer**.
 
-### Desktop Development
+---
+
+### 🖥️ Desktop Development
 
 * WinForms
 * .NET Framework
-* Modern .NET desktop applications
-* Business & ERP desktop applications
-* Data import/export tools
+* Modern .NET Desktop Applications
+* Business Applications
+* ERP/Desktop Systems
+* Data Import & Processing Tools
 
 ---
 
@@ -128,9 +181,9 @@ Currently focusing on becoming stronger in **modern Angular and full-stack devel
 
 ### 🦅 Eagle ERP
 
-A modular **Enterprise Resource Planning system** designed around real-world business workflows.
+A modular **Enterprise Resource Planning system** designed around real-world business workflows and enterprise business rules.
 
-**Core areas include:**
+#### Core Modules
 
 * Sales
 * Purchases
@@ -147,19 +200,22 @@ A modular **Enterprise Resource Planning system** designed around real-world bus
 * Maintenance
 * Manufacturing
 
-**Technology Stack**
+#### Technology Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,sqlserver" />
+</p>
 
 * .NET 10
-* C#
 * ASP.NET Core
 * Entity Framework Core
 * SQL Server
 * Angular 21
 * Clean Architecture
 * CQRS
-* Modular architecture
+* Modular Architecture
 
-The system focuses heavily on **business rules, accounting flows, inventory valuation, transactional consistency, maintainability, and enterprise-grade architecture**.
+The system focuses heavily on **business rules, accounting workflows, inventory valuation, transactional consistency, maintainability, and enterprise application architecture**.
 
 ---
 
@@ -167,7 +223,11 @@ The system focuses heavily on **business rules, accounting flows, inventory valu
 
 A production-oriented project management platform covering organizations, workspaces, projects, tasks, milestones, time tracking, teams, permissions, reporting, invitations, and collaboration.
 
-**Technology Stack**
+#### Technology Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,dotnet,postgres,redis,rabbitmq,docker" />
+</p>
 
 * React
 * .NET
@@ -177,33 +237,36 @@ A production-oriented project management platform covering organizations, worksp
 * CQRS
 * JWT Authentication
 * Role & Permission Management
-* Multi-tenant concepts
-* Server-side & client-side validation
+* Multi-Tenant Architecture Concepts
+* Server-Side & Client-Side Validation
 * Localization
-* Audit & business workflows
+* Audit & Business Workflows
+* Redis
+* RabbitMQ
+* Docker
 
-The project is designed around **real production workflows rather than a simple CRUD application**.
+The project is designed around **production-oriented workflows and architecture rather than simple CRUD functionality**.
 
 ---
 
 ### 🌐 Personal Portfolio
 
-A modern portfolio website built to showcase my projects, technical experience, and software engineering work.
+A modern portfolio website showcasing my technical experience, projects, and software engineering work.
 
 **Technology Stack**
 
 * Angular
 * Bootstrap
-* REST API
 * .NET
+* REST APIs
 
 ---
 
 ### 📥 Excel → Database Import Tool
 
-A Windows desktop application designed to dynamically import and map Excel data into SQL Server.
+A Windows desktop application for dynamically importing and mapping Excel data into SQL Server.
 
-Key capabilities include:
+Key capabilities:
 
 * Dynamic column mapping
 * Data validation
@@ -215,7 +278,7 @@ Key capabilities include:
 
 ## 🧠 Engineering Focus
 
-I'm particularly interested in the engineering problems behind production systems:
+I focus on the complete engineering lifecycle:
 
 ```text
 Business Requirements
@@ -241,46 +304,63 @@ Deployment
 Monitoring & Maintenance
 ```
 
-I don't focus only on writing code — I care about **why the system is designed a certain way and how the pieces work together**.
+I don't focus only on writing code.
+
+I care about **why a system is designed a certain way, how its components communicate, how business rules are enforced, and how the system can remain maintainable as it grows**.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔄 Concepts I'm Working With
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,js,html,css,tailwind,bootstrap,postgres,mysql,git,github,visualstudio" />
-</p>
+### Application Architecture
 
-### Currently Working With
+* Clean Architecture
+* CQRS
+* Modular Monoliths
+* Domain Modeling
+* Repository / Unit of Work
+* Result Pattern
+* SOLID
 
-* **C# / .NET**
-* **ASP.NET Core**
-* **Entity Framework Core**
-* **SQL Server**
-* **PostgreSQL**
-* **Angular**
-* **React**
-* **REST APIs**
-* **Clean Architecture**
-* **CQRS**
-* **System Design**
+### Distributed Systems
+
+* Redis
+* RabbitMQ
+* Messaging
+* Caching
+* Background Processing
+* Event-Driven Architecture
+* Idempotency
+* Outbox Pattern
+* Distributed application concepts
+
+### Infrastructure
+
+* Docker
+* IIS
+* Windows Server
+* Application Deployment
+* Environment Configuration
+* Database Deployment
 
 ---
 
-## 📈 Current Engineering Goals
+## 🎯 Current Engineering Goals
 
 I'm continuously improving in:
 
-* Advanced .NET architecture
+* Advanced .NET
 * System Design
-* Enterprise application architecture
-* Full-stack development
+* Enterprise Architecture
+* Full-Stack Development
 * Modern Angular
 * React
-* Database performance & design
-* Distributed systems concepts
-* Production software engineering
-* Technical leadership
+* Distributed Systems
+* Redis
+* RabbitMQ
+* Database Performance
+* Production Engineering
+* Technical Leadership
 
 My long-term direction is to grow from a strong **Software Engineer** into roles involving deeper **system architecture and technical leadership**.
 
@@ -295,6 +375,8 @@ My long-term direction is to grow from a strong **Software Engineer** into roles
 * 🔹 Strong SQL Server and relational database experience
 * 🔹 Experience designing and consuming **REST APIs**
 * 🔹 Practical experience with **Clean Architecture and CQRS**
+* 🔹 Experience with **Redis and RabbitMQ**
+* 🔹 Experience with **Docker-based development environments**
 * 🔹 Experience translating complex business requirements into software
 * 🔹 Growing expertise in **full-stack development**
 * 🔹 Strong interest in **system design and software architecture**
@@ -335,9 +417,11 @@ I value:
   <a href="https://linkedin.com/in/hossam-mostafa-6653452b3" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
+
   <a href="mailto:hossam.mostafa.ibrahim.mostafa@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
   </a>
+
   <a href="https://portfolio-front-end-virid.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Portfolio" />
   </a>
