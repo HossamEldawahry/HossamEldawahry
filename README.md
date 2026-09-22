@@ -68,10 +68,10 @@
 
 **Frontend**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,js,html,css,bootstrap,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,react,js,jquery" />
 </p>
 
-- Angular (In Progress) • JavaScript • HTML5 • CSS3 • Bootstrap • jQuery
+- HTML5 • CSS3 • Bootstrap • Tailwind • Angular • React • JavaScript • jQuery
 
 **Desktop & Cross-Platform**  
 - WinForms • .NET MAUI • .NET Framework
