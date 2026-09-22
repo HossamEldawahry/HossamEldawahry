@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hossam Mostafa Ibrahim</h1>
-<h3 align="center">.NET Developer | Building Reliable & Scalable Desktop and Web Applications</h3>
+
+<h3 align="center">Software Engineer (.NET) | Backend & Full-Stack Development | Enterprise Systems & Architecture</h3>
 
 <p align="center">
   <a href="https://portfolio-front-end-virid.vercel.app/" target="_blank">
@@ -19,117 +20,329 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## 👨‍💻 About Me
 
-### 🚀 About Me
+I'm a **Software Engineer specializing in C# and .NET**, with hands-on experience building business applications, backend systems, REST APIs, desktop applications, and enterprise solutions.
 
-- 🌱 Currently learning **Angular 17+** and deepening my expertise in **ASP.NET Core**
-- 👨‍💻 Passionate about building robust **desktop** and **web applications** using **C# and .NET**
-- 💬 Ask me about: **ASP.NET Core, Web API, Entity Framework Core, Clean Architecture**
-- 🧠 Strong believer in **clean code**, **maintainable architecture**, and **scalable systems**
-- 🎯 Goal: Become a **Senior .NET Developer** delivering high-quality production-ready solutions
-- ⚡ Fun fact: I enjoy transforming complex business needs into efficient, user-friendly software
+My primary focus is **backend engineering and system architecture**, while continuously expanding my frontend expertise to build complete full-stack solutions.
 
----
+I enjoy taking complex business requirements and turning them into:
 
-### 🌐 Connect With Me
+* Reliable backend systems
+* Well-structured APIs
+* Maintainable architectures
+* Database-driven applications
+* Scalable business workflows
+* Production-ready software
 
-<p align="left">
-  <a href="https://linkedin.com/in/hossam-mostafa-6653452b3" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin" />
-  </a>
-  <a href="mailto:hossam.mostafa.ibrahim.mostafa@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail" />
-  </a>
-  <a href="https://portfolio-front-end-virid.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="portfolio" />
-  </a>
-</p>
+I'm particularly interested in **software architecture, system design, clean code, domain-driven business logic, and solving real-world engineering problems**.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 What I Work With
 
-**Backend Development**  
+### Backend & .NET
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
 </p>
 
-- C# • ASP.NET Core • Web API • MVC • Entity Framework Core • ADO.NET  
-- RESTful Services • Repository & Unit of Work Patterns • Multi-Tenancy
+* C#
+* .NET / ASP.NET Core
+* ASP.NET Core Web API
+* Entity Framework Core
+* ADO.NET
+* RESTful APIs
+* Authentication & Authorization
+* JWT
+* Background Processing
+* API Design
+* Business Logic & Domain Modeling
 
-**Databases**  
+### Architecture & Engineering
+
+* Clean Architecture
+* Layered Architecture
+* SOLID Principles
+* OOP
+* CQRS
+* Repository & Unit of Work
+* Result Pattern
+* Domain-driven business logic
+* Modular Monolithic Architecture
+* Multi-Tenancy
+* System Design
+* API & Database Design
+* Concurrency & Transaction Management
+* Auditing & Soft Delete
+* Idempotency
+* Outbox Pattern
+* Event-driven concepts
+
+### Databases
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="sqlserver" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="50" height="50"/>
 </p>
 
-- SQL Server • PostgreSQL • T-SQL
+* Microsoft SQL Server
+* PostgreSQL
+* T-SQL
+* Database Design
+* Entity Relationships
+* Indexing & Query Optimization
+* Transactions
+* Migrations
 
-**Frontend**  
+### Frontend
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,react,js,jquery" />
 </p>
 
-- HTML5 • CSS3 • Bootstrap • Tailwind • Angular • React • JavaScript • jQuery
+* Angular
+* React
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+* jQuery
+* REST API integration
+* Responsive UI development
 
-**Desktop & Cross-Platform**  
-- WinForms • .NET MAUI • .NET Framework
+Currently focusing on becoming stronger in **modern Angular and full-stack development**.
 
-**Software Engineering Practices**  
-- OOP • SOLID Principles • Clean Architecture • Layered Architecture • Problem Solving
+### Desktop Development
 
----
-
-### 🚀 Featured Projects
-
-**1. ERP / Business Management System**  
-A modular system for managing sales, inventory, treasury, and accounting with clean architecture and real business workflows.
-
-**2. Personal Portfolio Website**  
-Modern and professional portfolio showcasing my skills and projects.
-
-**3. Excel to Database Import Tool**  
-WinForms desktop application for importing and mapping Excel data into SQL Server dynamically.
-
----
-
-### 🔭 Currently Working On
-
-- Enhancing ASP.NET Core architecture and best practices
-- Mastering Angular to become a stronger full-stack developer
-- Building more production-grade applications
-- Improving system design and clean code skills
+* WinForms
+* .NET Framework
+* Modern .NET desktop applications
+* Business & ERP desktop applications
+* Data import/export tools
 
 ---
 
+## 🏗️ Featured Projects
 
-### 📊 GitHub Stats
+### 🦅 Eagle ERP
+
+A modular **Enterprise Resource Planning system** designed around real-world business workflows.
+
+**Core areas include:**
+
+* Sales
+* Purchases
+* Inventory
+* Warehouses
+* Accounting
+* Treasury
+* Products
+* Cost Centers
+* Budgeting
+* HR & Payroll
+* POS
+* Fixed Assets
+* Maintenance
+* Manufacturing
+
+**Technology Stack**
+
+* .NET 10
+* C#
+* ASP.NET Core
+* Entity Framework Core
+* SQL Server
+* Angular 21
+* Clean Architecture
+* CQRS
+* Modular architecture
+
+The system focuses heavily on **business rules, accounting flows, inventory valuation, transactional consistency, maintainability, and enterprise-grade architecture**.
+
+---
+
+### 📊 Project Management SaaS
+
+A production-oriented project management platform covering organizations, workspaces, projects, tasks, milestones, time tracking, teams, permissions, reporting, invitations, and collaboration.
+
+**Technology Stack**
+
+* React
+* .NET
+* PostgreSQL
+* REST APIs
+* Clean Architecture
+* CQRS
+* JWT Authentication
+* Role & Permission Management
+* Multi-tenant concepts
+* Server-side & client-side validation
+* Localization
+* Audit & business workflows
+
+The project is designed around **real production workflows rather than a simple CRUD application**.
+
+---
+
+### 🌐 Personal Portfolio
+
+A modern portfolio website built to showcase my projects, technical experience, and software engineering work.
+
+**Technology Stack**
+
+* Angular
+* Bootstrap
+* REST API
+* .NET
+
+---
+
+### 📥 Excel → Database Import Tool
+
+A Windows desktop application designed to dynamically import and map Excel data into SQL Server.
+
+Key capabilities include:
+
+* Dynamic column mapping
+* Data validation
+* SQL Server integration
+* Configurable import workflows
+* Desktop-based business tooling
+
+---
+
+## 🧠 Engineering Focus
+
+I'm particularly interested in the engineering problems behind production systems:
+
+```text
+Business Requirements
+        ↓
+Domain Modeling
+        ↓
+System Design
+        ↓
+Architecture
+        ↓
+API Design
+        ↓
+Database Design
+        ↓
+Business Workflows
+        ↓
+Implementation
+        ↓
+Testing
+        ↓
+Deployment
+        ↓
+Monitoring & Maintenance
+```
+
+I don't focus only on writing code — I care about **why the system is designed a certain way and how the pieces work together**.
+
+---
+
+## 🔧 Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,js,html,css,tailwind,bootstrap,postgres,mysql,git,github,visualstudio" />
+</p>
+
+### Currently Working With
+
+* **C# / .NET**
+* **ASP.NET Core**
+* **Entity Framework Core**
+* **SQL Server**
+* **PostgreSQL**
+* **Angular**
+* **React**
+* **REST APIs**
+* **Clean Architecture**
+* **CQRS**
+* **System Design**
+
+---
+
+## 📈 Current Engineering Goals
+
+I'm continuously improving in:
+
+* Advanced .NET architecture
+* System Design
+* Enterprise application architecture
+* Full-stack development
+* Modern Angular
+* React
+* Database performance & design
+* Distributed systems concepts
+* Production software engineering
+* Technical leadership
+
+My long-term direction is to grow from a strong **Software Engineer** into roles involving deeper **system architecture and technical leadership**.
+
+---
+
+## 💡 Professional Highlights
+
+* 🔹 Strong hands-on experience with **C# and .NET**
+* 🔹 Backend-focused software engineering experience
+* 🔹 Experience building **enterprise and business applications**
+* 🔹 Experience with both **desktop and web applications**
+* 🔹 Strong SQL Server and relational database experience
+* 🔹 Experience designing and consuming **REST APIs**
+* 🔹 Practical experience with **Clean Architecture and CQRS**
+* 🔹 Experience translating complex business requirements into software
+* 🔹 Growing expertise in **full-stack development**
+* 🔹 Strong interest in **system design and software architecture**
+
+---
+
+## 🧩 Development Philosophy
+
+> **Good software is not just code that works.
+> It's software that can be understood, changed, tested, and trusted.**
+
+I value:
+
+* Clean and readable code
+* Explicit business rules
+* Separation of concerns
+* Maintainable architecture
+* Strong database design
+* Consistent API contracts
+* Proper validation
+* Reliable error handling
+* Production-focused engineering
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=HossamEldawahry&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com?user=HossamEldawahry&theme=tokyonight&hide_border=true" />
+  <img src="https://ghstats.dev/api/card?username=HossamEldawahry&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=HossamEldawahry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 💡 Professional Highlights
-
-- 🔹 Strong foundation in **C# and .NET development**
-- 🔹 Experience building **desktop and web applications**
-- 🔹 Focused on **clean architecture** and **maintainable backend systems**
-- 🔹 Comfortable working with **SQL Server**, **PostgreSQL**, and **REST APIs**
-- 🔹 Continuously improving toward **Senior .NET Developer** level
-
----
-
-### 🤝 Let's Connect & Build Something Great
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:hossam.mostafa.ibrahim.mostafa@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/hossam-mostafa-6653452b3" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
+  <a href="mailto:hossam.mostafa.ibrahim.mostafa@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
+  </a>
+  <a href="https://portfolio-front-end-virid.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Building software. Solving business problems. Designing systems.</strong>
 </p>
